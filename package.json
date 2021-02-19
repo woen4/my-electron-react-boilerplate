@@ -248,6 +248,7 @@
     "yarn-deduplicate": "^3.1.0"
   },
   "dependencies": {
+    "@types/styled-components": "^5.1.7",
     "electron-debug": "^3.1.0",
     "electron-log": "^4.2.4",
     "electron-updater": "^4.3.4",
@@ -256,7 +257,8 @@
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
     "regenerator-runtime": "^0.13.5",
-    "source-map-support": "^0.5.19"
+    "source-map-support": "^0.5.19",
+    "styled-components": "^5.2.1"
   },
   "devEngines": {
     "node": ">=10.x",
